@@ -34,19 +34,19 @@ The dashboard helps visualize crime statistics to better understand how crimes a
 **📊 Some Power Bi Dashboard Output Snapshots**
 
 # Query 1 - Output Screenshot
-![Query Output - 1](/HACATHON Images/Output_1.png)
+![Query Output - 1](/HACATHON_Images/Output_1.png)
 
 # Query 2 - Output Screenshot
-![Query Output - 2](/HACATHON Images/Output_2.png)
+![Query Output - 2](/HACATHON_Images/Output_2.png)
 
 # Query 3 - Output Screenshot 
-![Query Output - 3](/HACATHON Images/Output_3.png)
+![Query Output - 3](/HACATHON_Images/Output_3.png)
 
 # Query 4 - Output Screenshot 
-![Query Output - 4](/HACATHON Images/Output_4.png)
+![Query Output - 4](/HACATHON_Images/Output_4.png)
 
 # Query 5 - Output Screenshot
-![Query Output - 5](/HACATHON Images/Output_5.png)
+![Query Output - 5](/HACATHON_Images/Output_5.png)
 
 ## 📊 Key Insights from the Dashboard
 
