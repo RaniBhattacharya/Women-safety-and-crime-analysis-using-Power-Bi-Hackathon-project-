@@ -1,2 +1,68 @@
-# Women-safety-and-crime-analysis-using-Power-Bi-Hackathon-project-
-This project analyzes crimes against women using Power BI to identify trends, patterns, and regional differences. Interactive dashboards visualize crime types, yearly changes, and state comparisons, helping transform raw data into meaningful insights for awareness and better decision-making on women’s safety.
+# Hackathon Project – Crimes Against Women Analysis (2001–2014)
+
+## 📊 Project Overview
+
+This project was developed as part of a **Hackathon challenge**.
+The objective is to analyze **crimes against women in India (2001–2014)** using **Power BI** and identify important patterns, trends, and insights.
+
+The dashboard helps visualize crime statistics to better understand how crimes against women have evolved over time.
+
+---
+
+## 📁 Repository Contents
+
+| File Name                             | Description                                                  |
+| ------------------------------------- | ------------------------------------------------------------ |
+| `Hackathon Power Bi File.pbix`        | Power BI dashboard containing visual analysis of the dataset |
+| `crimes_against_women_2001-2014.xlsx` | Dataset used for analysis                                    |
+| `team - SheCodesX(ROUND1).pdf`        | Hackathon submission / presentation document                 |
+| `README.md`                           | Project documentation                                        |
+
+---
+
+## 📈 Tools & Technologies Used
+
+* **Power BI**
+* **Microsoft Excel**
+* **Data Visualization**
+* **Data Analysis**
+
+---
+
+## 📊 Key Insights from the Dashboard
+
+* Year-wise trend of crimes against women
+* State-wise crime distribution
+* Category-wise crime analysis
+* Identification of high-risk regions and patterns
+
+---
+
+## 👩‍💻 Team Members – SheCodesX
+
+This project was developed by the team **SheCodesX**.
+
+* **Rani Bhattacharya**
+* **Bipasha Ghosh**
+* **Rimi Hossain**
+
+---
+
+## 🎯 Purpose of the Project
+
+The goal of this project is to use **data analytics and visualization** to highlight patterns in crimes against women and raise awareness using meaningful insights.
+
+---
+
+## 📌 How to Use
+
+1. Download the repository.
+2. Open the `.pbix` file using **Power BI Desktop**.
+3. Explore the interactive dashboard to view insights.
+
+---
+
+## 📜 License
+
+This project is created for **educational and hackathon purposes**.
+
